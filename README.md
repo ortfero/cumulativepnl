@@ -13,7 +13,7 @@ CC    -710.0
 ```
 
 ```
-Total PnL: 8489.999999999827
+Total PnL: 8490
 ```
 
 ![Cumulative PnL over trades](https://github.com/ortfero/cumulativepnl/blob/main/figs/cumulative_pnl_over_trades.png?raw=true)
